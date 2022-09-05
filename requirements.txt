@@ -1,0 +1,5 @@
+Pillow
+opencv-python
+cvlib
+matplotlib==3.5.2
+tensorflow==2.9.1
